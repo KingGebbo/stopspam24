@@ -1,81 +1,143 @@
-# Cold-Sales-Mails – Media Buyer (DACH) · Entwurf zur Freigabe
+# Cold-Sales-Mails – Media Buyer (DACH) · 5 Drafts zum Testen
 
-Personalisierung: `{Vorname}` (per Du), `{Agentur}` = Agentur des Empfängers.
-Bei funktionalen Postfächern zusätzlich in Zeile 1: „z.Hd. {Vorname Nachname}".
-Links bewusst als Text (nicht verlinkt).
+**Personalisierung:** `{Vorname}` (per Du), `{Agentur}` = Agentur des Empfängers.
+Bei funktionalen Postfächern zusätzlich Zeile 1: „z.Hd. {Vorname Nachname}".
+**Links:** `note-buddys.vercel.app` als Text; Calendly als Hyperlink auf „Hier klicken" → https://calendly.com/gabriel-notebuddys
 
 ---
 
-## Variante A – Performance / „exklusiver Kanal"
+## Draft 1 – Freigegebene Fassung (Basis)
 
-**Betreff:** {Vorname}, der Werbeträger, den kaum eine Agentur nutzt
+**Betreff:** Sommeraktion – Standalone Mailings an junge Leute stark reduziert – 250k Reichweite
 
 Hi {Vorname},
 
 kurz und konkret: das werbefreie Uni- und Schulpostfach – ein digitales Standalone-Mailing, das kaum eine Agentur auf dem Schirm hat. Große Marken wie BMW, DHL und McKinsey nutzen den Kanal bereits. Dahinter stehen 250.000+ verifizierte Schüler und Studierende bundesweit, die dem Erhalt zugestimmt haben. Der Clou: Im werbefreien Postfach konkurriert niemand um Aufmerksamkeit – eure Botschaft steht als exklusiver Alleinversand allein drin.
 
 Warum das für eure Etats passt:
-- ~55 % Öffnung, 6–12 % Klick – möglich, weil keine Werbekonkurrenz um das Postfach kämpft (E-Mail-Benchmark ~20 % / ~2 %; anonymisierte Reporting-Beispiele schicke ich dir gern)
-- Präzises Targeting: Region, Fachrichtung, Semester, Schulform, Interessen
-- Für euch als Einkäufer: ein neues, differenzierendes Format für eure nächste Mediaempfehlung – inkl. Reporting, das ihr 1:1 an euren Kunden weiterreicht
-- Schnelle Umsetzung mit persönlicher Betreuung: ihr liefert Motiv und Zielgruppe, den Rest übernehmen wir
-- Sommeraktion: 0,40 € je Empfänger – bei ~55 % Öffnung unter 1 € je erreichtem Kontakt
+- ~55 % Öffnung, 6–12 % Klick – weil keine Werbekonkurrenz um das Postfach kämpft
+- Präzises Targeting: Region, Fachrichtung, Semester, Schulform, Interessen, uvm.
+- Ein neues, differenzierendes Format für eure nächste Mediaempfehlung – inkl. Reporting zum 1:1-Weiterreichen an euren Kunden
+- Schnelle Umsetzung mit persönlicher Betreuung: ihr liefert Motiv + Zielgruppe, den Rest übernehmen wir
+- Sommeraktion: 0,40 € je Empfänger
 
 Das könnte für eure Kunden bei {Agentur} sicherlich gut passen.
 
-Reichweite ist keine Blackbox – prüf pro Region/Fach/Semester in unter 60 Sekunden die verfügbaren Empfänger: note-buddys.vercel.app
+Reichweite ist keine Blackbox – prüf pro Region/Fach/Semester in unter 60 Sekunden die verfügbaren Empfänger und wir liefern dir die konkreten Zahlen: note-buddys.vercel.app
 
-Lieber direkt Zahlen? Antworte kurz mit eurer Ziel-Region, dann schicke ich dir die verfügbare Reichweite. Termin bei Bedarf: calendly.com/gabriel-notebuddys
+Termin bei Bedarf: [Hier klicken](https://calendly.com/gabriel-notebuddys)
+
+ich freue mich auf den weiteren Austausch.
 
 Viele Grüße
 Gabriel Hilbrig
-Note Buddy's – DSGVO-konform, Reporting inklusive
-
-Kein Interesse? Kurze Antwort mit „Stop" und du hörst nichts mehr von mir.
 
 ---
 
-## Variante B – „ein Kanal, zwei Etats" (Marketing + Employer Branding)
+## Draft 2 – Employer Branding + Marketing („ein Kanal, zwei Etats")
 
-**Betreff:** {Vorname}, ein Werbeträger, zwei Etats für {Agentur}
+**Betreff:** Sommeraktion – Azubis & Studierende direkt im Uni-Postfach erreichen (250k, 0,40 €)
 
 Hi {Vorname},
 
-ein Kanal, mit dem eure Kunden Marketing UND Recruiting in einem Rutsch abdecken – direkt im werbefreien Uni- und Schulpostfach. Note Buddy's bringt eure Botschaft als digitales Standalone-Mailing zu 250.000+ verifizierten Schülern und Studierenden, die dem Erhalt zugestimmt haben – ein Kanal, den Marken wie BMW, DHL und McKinsey bereits nutzen. Gerade für Kunden mit Azubi-, Trainee- oder Nachwuchsbedarf ein direkter Draht zur nächsten Generation – als Kunden UND als Arbeitnehmer.
+ein Kanal, mit dem eure Kunden Marketing UND Recruiting in einem Rutsch abdecken – direkt im werbefreien Uni- und Schulpostfach. BMW, DHL und McKinsey nutzen ihn bereits. Note Buddy's bringt eure Botschaft als digitales Standalone-Mailing zu 250.000+ verifizierten Schülern und Studierenden, die dem Erhalt zugestimmt haben – der direkte Draht zur nächsten Generation, als Kunden UND als Arbeitnehmer.
 
-Auf einen Blick:
-- Ein Kanal, zwei Etats: Marketing und Employer Branding/Recruiting in einem Format
+Warum das für eure Etats passt:
+- Ein Format, zwei Budgets: Marketing und Employer Branding / Recruiting
 - Exklusiver Alleinversand: euer Kunde steht allein im Postfach, keine Werbekonkurrenz
-- ~55 % Öffnung, 6–12 % Klick – möglich, weil im werbefreien Postfach niemand um Aufmerksamkeit konkurriert (E-Mail-Benchmark ~20 % / ~2 %; Beispiele schicke ich dir gern)
-- Targeting nach Region, Fachrichtung, Semester, Schulform, Interessen – die Reichweite prüfst du selbst, bevor du etwas zusagst
-- Detailliertes Reporting (Öffnungen & Klicks), fertig zum Weiterreichen an euren Kunden
-- Sommerkonditionen: 0,40 € pro Empfänger, DSGVO-konform und schnell umgesetzt
+- Präzises Targeting: Region, Fachrichtung, Semester, Schulform, Interessen, uvm.
+- Detailliertes Reporting zum 1:1-Weiterreichen an euren Kunden
+- Sommeraktion: 0,40 € je Empfänger
 
-Das könnte für eure Kunden bei {Agentur} sicherlich gut passen – unverbindlich und mit prüfbarer Reichweite.
+Das könnte für eure Kunden bei {Agentur} sicherlich gut passen.
 
-Check die verfügbare Reichweite für eine konkrete Zielgruppe in unter 60 Sekunden: note-buddys.vercel.app
+Reichweite prüfen – in unter 60 Sekunden pro Zielgruppe, wir liefern dir die konkreten Zahlen: note-buddys.vercel.app
 
-Lieber direkt Zahlen? Antworte kurz mit eurer Ziel-Region, dann melde ich mich mit den verfügbaren Zahlen. Termin bei Bedarf: calendly.com/gabriel-notebuddys
+Termin bei Bedarf: [Hier klicken](https://calendly.com/gabriel-notebuddys)
 
-Beste Grüße
+ich freue mich auf den weiteren Austausch.
+
+Viele Grüße
 Gabriel Hilbrig
-Note Buddy's
-
-Kein Interesse? Kurze Antwort mit „Stop", dann hörst du nichts mehr von mir.
 
 ---
 
-## Ergebnis der Experten-Schleife (Media- + Sales-Experte → Media-Buyer, 4 Runden)
+## Draft 3 – Performance-Hook (Öffnungs-/Klickrate zuerst)
 
-**Simulierter Media Buyer: Score 22/100, kaufbereit = NEIN. Favorit: Variante B.**
+**Betreff:** ~55 % Öffnungsrate im werbefreien Uni-Postfach – Sommeraktion 0,40 €
 
-Der Text ist nach 4 Runden stark – die verbleibenden Einwände betreffen aber **Substanz/Vertrauen, nicht die Formulierung** und brauchen echte Assets:
+Hi {Vorname},
 
-1. **`vercel.app`-Domain wirkt wie MVP/Nebenprojekt** → Reputations-/Ausfallrisiko. Eigene Domain (notebuddys.de) + Impressum-Signal nötig.
-2. **Kennzahlen (55 % / 6–12 %) ohne Beleg** → mind. 1 echte Case Study / Referenzkunde mit Zahlen.
-3. **„Werbefreies Postfach" bleibt Blackbox** → kurz erklären, was es technisch ist und wie die 250k entstehen (Opt-in).
-4. **DSGVO bei Schülern/Minderjährigen** → Einwilligungsgrundlage belegen (One-Pager), sonst Schüler-Ansprache heikel.
-5. **Reichweite 250k wirkt klein** für Agenturen mit vielen Kunden → als Nischen-/Präzisions-Kanal positionieren, nicht als Reichweiten-Etat.
-6. **0,40 €/Empfänger = 400 € TKP** → Preis anders rahmen (Kosten je *geöffneter*/erreichter Kontakt) oder Test-Paketpreis.
-7. **Kein Social Proof** (Referenz, Marke, Bewertung) → mind. ein Logo/Zitat.
-8. **Öffnungsrate seit Apple MPP unzuverlässig** → lieber Klick-/Response-Reporting betonen.
+~55 % Öffnung und 6–12 % Klick – das schafft das werbefreie Uni- und Schulpostfach, weil dort keine Werbekonkurrenz um Aufmerksamkeit kämpft. Als digitales Standalone-Mailing steht eure Botschaft exklusiv drin. Große Marken wie BMW, DHL und McKinsey nutzen den Kanal bereits; für die meisten Agenturen ist er noch neu.
+
+Auf einen Blick:
+- 250.000+ verifizierte Schüler & Studierende bundesweit (Erhalt bestätigt)
+- Präzises Targeting: Region, Fachrichtung, Semester, Schulform, Interessen, uvm.
+- Reporting zum 1:1-Weiterreichen an euren Kunden
+- Schnelle Umsetzung mit persönlicher Betreuung
+- Sommeraktion: 0,40 € je Empfänger
+
+Das könnte für eure Kunden bei {Agentur} sicherlich gut passen.
+
+Reichweite ist keine Blackbox – prüf sie in unter 60 Sekunden, wir liefern dir die konkreten Zahlen: note-buddys.vercel.app
+
+Termin bei Bedarf: [Hier klicken](https://calendly.com/gabriel-notebuddys)
+
+ich freue mich auf den weiteren Austausch.
+
+Viele Grüße
+Gabriel Hilbrig
+
+---
+
+## Draft 4 – Curiosity / Exklusivität (Marken-Hook)
+
+**Betreff:** Der Kanal, den BMW & DHL nutzen – für Agenturen noch neu (Sommeraktion)
+
+Hi {Vorname},
+
+kurze Frage: Habt ihr das werbefreie Uni- und Schulpostfach schon auf dem Schirm? BMW, DHL und McKinsey nutzen es bereits – kaum eine Agentur bisher. Als digitales Standalone-Mailing landet eure Botschaft exklusiv bei 250.000+ verifizierten Schülern und Studierenden, ganz ohne Werbekonkurrenz im Postfach.
+
+Warum das für eure Etats spannend ist:
+- Differenzierendes Format für eure nächste Mediaempfehlung
+- ~55 % Öffnung, 6–12 % Klick – weil niemand um das Postfach konkurriert
+- Präzises Targeting: Region, Fachrichtung, Semester, Schulform, Interessen, uvm.
+- Reporting zum 1:1-Weiterreichen an euren Kunden
+- Sommeraktion: 0,40 € je Empfänger
+
+Das könnte für eure Kunden bei {Agentur} sicherlich gut passen.
+
+Reichweite in unter 60 Sekunden prüfen, wir liefern dir die konkreten Zahlen: note-buddys.vercel.app
+
+Termin bei Bedarf: [Hier klicken](https://calendly.com/gabriel-notebuddys)
+
+ich freue mich auf den weiteren Austausch.
+
+Viele Grüße
+Gabriel Hilbrig
+
+---
+
+## Draft 5 – Kurz & direkt (CTA-first)
+
+**Betreff:** 60 Sek: Reichweite bei Schülern & Studierenden prüfen – Sommeraktion 0,40 €
+
+Hi {Vorname},
+
+schnell und konkret für {Agentur}: digitale Standalone-Mailings direkt ins werbefreie Uni- und Schulpostfach von 250.000+ verifizierten Schülern und Studierenden – exklusiv, ohne Werbekonkurrenz. BMW, DHL und McKinsey nutzen den Kanal bereits.
+
+- ~55 % Öffnung, 6–12 % Klick
+- Targeting: Region, Fachrichtung, Semester, Schulform, Interessen, uvm.
+- Reporting zum Weiterreichen an euren Kunden
+- Sommeraktion: 0,40 € je Empfänger
+
+Das könnte für eure Kunden bei {Agentur} sicherlich gut passen.
+
+Reichweite in unter 60 Sekunden prüfen, wir liefern dir die konkreten Zahlen: note-buddys.vercel.app
+
+Termin bei Bedarf: [Hier klicken](https://calendly.com/gabriel-notebuddys)
+
+ich freue mich auf den weiteren Austausch.
+
+Viele Grüße
+Gabriel Hilbrig
