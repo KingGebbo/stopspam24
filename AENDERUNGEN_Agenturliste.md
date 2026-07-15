@@ -34,3 +34,12 @@ Zweiter Durchlauf – alle 91 Zeilen mit Platzhaltern („via Impressum prüfen"
 - Bei Mediaagenturen (Kat. C) gezielt die **Media-Buyer/Einkäufer** identifiziert (z.B. Wavemaker `NB_Germany@wmglobal.com` / Dirk Fromm & Thorsten Ebbing; Mindshare Michael Mülbüsch (CIO); Zenith Jennifer Andree; UM Stefanie Tannrath) – die Personen, die Werbeträger für ihre Endkunden einkaufen.
 - **Notlösung** nur wo nötig: allgemeine Kontakt-/Impressum-Mail.
 - **0** Zeilen ohne nutzbare E-Mail. Wo nur ein E-Mail-**Muster** (z.B. `vorname.nachname@domain`) belegt ist – v.a. bei großen Netzwerk-Agenturen ohne öffentliche Einzeladressen – ist die Zeile ehrlich als „recherchiert – vor Versand kurz prüfen" markiert; der Personenname/die Rolle ist jeweils real belegt. Keine Adressen erfunden.
+
+## Nachtrag 2: Tabellenblatt "Media Buyer DACH" (208 Personen) + Outreach-Leitfaden
+- **208 reale Media Buyer / Media-Einkäufer / Investment-Verantwortliche** aus DACH (DE 165, AT 20, CH 23), recherchiert in 2 Wellen à 10 Agenten über LinkedIn (öffentliche Suche), Team-/Presseseiten und Fachpresse. Zielgruppe: die Personen, die bei Agenturen Werbeträger für ihre Endkunden EINKAUFEN.
+- **E-Mail-Rekonstruktion:** Pro Firma wurde das Mail-Muster über mind. eine real belegte Beispieladresse ermittelt; daraus die persönliche Mail gebildet. 136 rekonstruiert, 69 allgemeine Funktionsmail, 3 unbekannt. Spalten "Mail-Typ", "Sicherheit", "Muster/Beleg" und "Betreff-Hinweis (z.Hd.)" dokumentieren jede Adresse. Keine Muster erfunden.
+- **Cold-Sales-Review integriert:** Ein Cold-Sales-Experte hat die Liste bewertet (Score 3-/55) und 66 Fixes geliefert. Umgesetzt als **Tier-/Eignungs-Spalte**:
+  - **Tier 1 (30):** bester Fit – HR/Employer-Media-Einkäufer + Buy-Side-OOH/Ambient-Planung → zuerst ansprechen.
+  - **Tier 2 (65):** klassischer Media-Einkauf/Investment großer Netze.
+  - **Tier 3 (113):** Sell-Side-Medieneigentümer (nur Partner-Pitch), rein digitale Einkäufer (Kanal-Mismatch) oder Nicht-Bucher/CEOs – transparent geflaggt mit Sales-Hinweis.
+- **Blatt "Outreach-Leitfaden":** Betreff-/Opener-Vorlage (mit z.Hd.-Logik), Segment-Reihenfolge, Rechtshinweise (UWG §7 DE, TKG AT, revDSG CH), Do/Don't für Kaltansprache.
