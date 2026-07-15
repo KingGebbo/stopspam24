@@ -27,3 +27,10 @@ Erweiterung der Ausgangsliste (`Agenturen_Zielliste_EmployerBranding_Media_1.xls
 ## Aufbau der Datei
 - Tabellenblatt **„Agenturen Zielliste"**: nach Kategorie gruppiert, durchnummeriert, farbcodiert (Kategorie + Priorität), Autofilter aktiv.
 - Tabellenblatt **„Legende & Vorgehen"**: Kategorien, Prioritäten, Status-Definitionen, Pitch-Winkel.
+
+## Nachtrag: Kontaktdaten-Tiefenrecherche (07/2026)
+Zweiter Durchlauf – alle 91 Zeilen mit Platzhaltern („via Impressum prüfen" / „n/a") aufgelöst:
+- Primär echte **Personen-/Funktions-Mails** über Team-/Über-uns-/Kontakt-/Presse-Seiten recherchiert (z.B. `f.gehrmann@koenigsteiner.com`, `ruben.lampe@uninow.de`, `vertrieb@e-fellows.net`, `jennifer.andree@zenithmedia.com`, `hb@iqb.de`).
+- Bei Mediaagenturen (Kat. C) gezielt die **Media-Buyer/Einkäufer** identifiziert (z.B. Wavemaker `NB_Germany@wmglobal.com` / Dirk Fromm & Thorsten Ebbing; Mindshare Michael Mülbüsch (CIO); Zenith Jennifer Andree; UM Stefanie Tannrath) – die Personen, die Werbeträger für ihre Endkunden einkaufen.
+- **Notlösung** nur wo nötig: allgemeine Kontakt-/Impressum-Mail.
+- **0** Zeilen ohne nutzbare E-Mail. Wo nur ein E-Mail-**Muster** (z.B. `vorname.nachname@domain`) belegt ist – v.a. bei großen Netzwerk-Agenturen ohne öffentliche Einzeladressen – ist die Zeile ehrlich als „recherchiert – vor Versand kurz prüfen" markiert; der Personenname/die Rolle ist jeweils real belegt. Keine Adressen erfunden.
